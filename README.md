@@ -1,2 +1,4 @@
 # hello-world
-Just a repository for fun
+
+Hi guys,
+this is arvin's first project! Just for fun.
